@@ -21,8 +21,15 @@ Created by : mutationthemes
 11.Contact section
 12.Footer section
 13.Mediaqueries 
+*/
 
-
+.proof-album{
+    background-image: url("/img/bg.png");
+    background-repeat: no-repeat;
+    background-blend-mode: color;
+    background-size: cover;
+    background-color: #000000b0;
+}
 
 
 /*Preloader*/
